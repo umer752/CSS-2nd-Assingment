@@ -1,0 +1,34 @@
+.table{
+    background-color: aqua;
+}
+
+.h1{
+    background-color: rgb(245, 216, 179);
+}
+
+.c{
+    background-color: black;
+}
+
+.c1{
+    color: rgba(0, 153, 255, 0.719);
+}
+
+.c2{
+    color: white;
+}
+
+.c3{
+    background-color: rgb(224, 255, 247);
+}
+
+.c4{
+    background-color: rgb(225, 182, 65);
+}
+
+.c5{
+    background-color: sienna;
+}
+.c1{
+    text-align: center;
+}
